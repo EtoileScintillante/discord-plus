@@ -10,11 +10,11 @@ body {
 }
 
 #wrapper {
-  background: #410143;
-  background: -webkit-linear-gradient(top, #410143, #F67149, #410143);
-  background: -o-linear-gradient(top, #410143, #F67149, #410143);
-  background: -moz-linear-gradient(top, #410143, #F67149, #410143);
-  background: linear-gradient(to bottom, #410143, #F67149, #410143);
+  background: #001f3f; /* dark blue */
+  background: -webkit-linear-gradient(top, #001f3f, #61d9fa, #001f3f);
+  background: -o-linear-gradient(top, #001f3f, #61d9fa, #001f3f);
+  background: -moz-linear-gradient(top, #001f3f, #61d9fa, #001f3f);
+  background: linear-gradient(to bottom, #001f3f, #61d9fa, #001f3f);
   height: 100%;
 }
 
@@ -648,10 +648,10 @@ a:hover {
 
 #temptation span {
   background: white;
-  background: -webkit-linear-gradient(left, orange, yellow, orange);
-  background: -o-linear-gradient(right, orange, yellow, orange);
-  background: -moz-linear-gradient(right, orange, yellow, orange);
-  background: linear-gradient(to right, orange, yellow, orange );
+  background: -webkit-linear-gradient(left, #61d9fa, #aeefff, #61d9fa);
+  background: -o-linear-gradient(right, #61d9fa, #aeefff, #61d9fa);
+  background: -moz-linear-gradient(right, #61d9fa, #aeefff, #61d9fa);
+  background: linear-gradient(to right, #61d9fa, #aeefff, #61d9fa);
   background-size: 240px 240px;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
