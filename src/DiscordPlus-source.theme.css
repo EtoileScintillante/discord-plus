@@ -110,7 +110,9 @@
 	/* Value: CSS background-image */
 	--dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
 	--dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
+	/*
 	--dplus-wordmark: url(https://plusinsta.github.io/discord-plus/assets/wordmark_white.svg);
+	*/
 
 	/* Unit: seconds */
 	--dplus-anim-short: .2s;
@@ -931,6 +933,7 @@ that have popups, or else the menu breaks when you hover over them */
 .winButtonClose__421ed {
 	border-radius: 0 10px 10px 0;
 }
+/*
 .wordmark__421ed {
 	display: block;
 	background-image: var(--dplus-wordmark);
@@ -945,6 +948,7 @@ that have popups, or else the menu breaks when you hover over them */
 }
 .theme-light .wordmark__421ed {filter: brightness(0);}
 .theme-light .theme-dark .wordmark__421ed {filter: none;}
+*/
 
 /* titlebar corners get glitched with Nitro theme without this */
 .custom-theme-background .withBackgroundOverride__421ed.typeWindows__421ed {
@@ -961,7 +965,7 @@ that have popups, or else the menu breaks when you hover over them */
 .bar_c38106::after {
 	content: "";
 	display: block;
-	background-image: var(--dplus-wordmark);
+	/*background-image: var(--dplus-wordmark);*/
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: 0 !important;
