@@ -925,7 +925,9 @@ that have popups, or else the menu breaks when you hover over them */
 .withFrame__421ed {
 	margin-top: var(--dplus-spacing-app);
 }
+/*
 .wordmark__421ed svg {display: none;}
+*/
 .winButton__421ed {
 	height: 24px;
 	top: 2px;
